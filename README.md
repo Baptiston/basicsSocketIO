@@ -3,4 +3,5 @@ Basic introduction about socketIo
 
 # Documentation
 https://socket.io/pt-br/docs/v4/
-https://socket.io/pt-br/docs/v4/client-api#socket
+https://socket.io/pt-br/docs/v4/client-api
+https://socket.io/pt-br/docs/v4/server-api
