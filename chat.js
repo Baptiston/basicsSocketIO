@@ -3,7 +3,6 @@ const app = express();
 const socketIo = require('socket.io');
 
 app.use(express.static(__dirname + '/public'))
-
 const expressServer = app.listen(8001);
 
 //pattern definition of a socket server
